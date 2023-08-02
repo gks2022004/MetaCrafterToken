@@ -1,4 +1,4 @@
-# MyToken
+# MetaCrafterToken
 
 MyToken is an Ethereum ERC20 token contract that allows the contract owner to mint tokens to a provided address, and users to burn and transfer tokens.
 
@@ -14,7 +14,7 @@ MyToken is an Ethereum ERC20 token contract that allows the contract owner to mi
 
 ## Contract Details
 
-- Name: MyToken
+- Name: MetaCrafterToken
 - Symbol: MCT
 - Decimals: 18
 
