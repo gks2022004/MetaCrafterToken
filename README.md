@@ -10,34 +10,13 @@ MyToken is an Ethereum ERC20 token contract that allows the contract owner to mi
 
 ## Prerequisites
 
-- Node.js
-- npm or yarn (package managers)
-
-## Installation
-
-1. Clone the repository or download the source code:
-
-2. Install the dependencies:
-
-## Usage
-
-1. Compile the smart contract:
-
-2. Run the Hardhat local network:
-
-3. Deploy the contract on the local network:
-
-4. Use Remix or any other Ethereum development tool to interact with the deployed contract on the local network.
+- Remix-IDE
 
 ## Contract Details
 
 - Name: MyToken
 - Symbol: MCT
 - Decimals: 18
-
-### Contract Owner
-
-The contract owner is the account that deploys the contract and has special privileges.
 
 ### Functions
 
@@ -63,4 +42,8 @@ Transfers tokens from the caller's account to the specified recipient.
 - `recipient`: The address to which the tokens will be transferred.
 - `amount`: The number of tokens to transfer.
 
+## License
+
+MIT License
+Copyright (c) 2023 Gaurav Kumar Singh
 
