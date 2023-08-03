@@ -44,7 +44,7 @@ Transfers tokens from the caller's account to the specified recipient.
 
 ## License
 
-MIT License-see deatils [here](https://github.com/gks2022004/MetaCrafterToken/blob/main/LICENSE)
+MIT License-see details [here](https://github.com/gks2022004/MetaCrafterToken/blob/main/LICENSE)
 
 Copyright (c) 2023 Gaurav Kumar Singh
 
